@@ -1,4 +1,4 @@
-# Bonjour, je suis Johanna Grace Fokui Nubi 👋
+# Bonjour, je suis Johanna Grace Fokui Noubi 👋
 
 ## À propos de moi
 Je suis étudiante en **MSc Intelligence Artificielle et Data Science** à Aivancity (2022-2027), passionnée par la Data Science, le Machine Learning, et l’Intelligence Artificielle. J’aime explorer des données, développer des modèles prédictifs, et créer des solutions innovantes pour résoudre des problématiques complexes. Mes projets et expériences reflètent mon intérêt pour l’analyse de données, le NLP, et les approches MLOps.
