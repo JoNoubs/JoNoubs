@@ -94,7 +94,6 @@ It's not about knowing every language, it's about mastering the right ones to so
 ## GitHub Stats
 
 ![Johanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoNoubs&theme=radical&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoNoubs&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoNoubs&theme=radical)
 
 
