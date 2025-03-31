@@ -39,7 +39,7 @@ I’m seeking a **2-year apprenticeship** in **Data Science**, **AI**, or **Data
 - **AI Article Detection with BERT & UMAP**: Built a system to classify articles as AI-related or not using web scraping, BERT embeddings, UMAP for visualization, and a logistic regression classifier. Added anomaly detection for robustness.  
 - **Wikipedia Topic Clustering**: Scraped Wikipedia articles on diverse topics (AI, Law, History, etc.), used TF-IDF and UMAP for dimensionality reduction, and applied k-Means clustering to visualize relationships between fields.  
 - **Image Color Palette Extraction**: Developed a tool to extract dominant colors from images using KMeans clustering with OpenCV and Matplotlib, showcasing the color palette in a visual format.  
-- **Tic-Tac-Toe Game with AI**: Created a Python-based Tic-Tac-Toe game with a computer player using random move selection, featuring a dynamic board size and win detection logic.  
+- **Tic-Tac-Toe Game with AI**: Built an enhanced Python-based Tic-Tac-Toe game with Streamlit, featuring a minimax AI opponent, customizable board sizes, move history, and score tracking for wins and draws. [View Project](https://github.com/JoNoubs/tic-tac-toe-streamlit)
 - **Real-Time Object Detection with YOLOv5**: Implemented a real-time object detection system using YOLOv5 and OpenCV, displaying detected objects with bounding boxes and confidence scores via webcam feed.
   
 ---
