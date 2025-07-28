@@ -3,7 +3,7 @@
 I’m a 3rd-year student in **AI & Data Science** at AIVANCITY, and I’m passionate about using data and AI to solve real problems with an ethical focus. I love diving into datasets, building smart solutions, and creating visuals that bring insights to life!
 
 ## 🎯 My Goal  
-I’m seeking a **2-year apprenticeship** in **Data Science**, **AI**, or **Data/Business Analysis** starting September 2025 (available from July, 3 weeks in company / 1 week in school).  
+Upgrade my skills in AI and data science.
 
 ---
 
