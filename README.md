@@ -3,14 +3,14 @@
 I'm an **AI Engineer** building production agents for 11 global brands. I win challenges, publish papers, ship real things, and teach AI to people who didn't think they needed it.
 
 ## 🎯 My Goal  
-Build AI that works in the real world — from production agent systems in Europe to mobile-first tools for African markets.
+Build AI that works in the real world, from production agent systems in Europe to mobile-first tools for African markets.
 
 ---
 
 ## A Bit About Me
 - **What I'm building**: Production MCP servers, multi-agent systems, RAG pipelines, and knowledge management tools deployed at scale
 - **What I care about**: Responsible AI (EU AI Act, GDPR compliance by design), African tech context (mobile-first, MoMo payments, WhatsApp-first UX)
-- **Fun fact**: Cameroun-born, Paris-based. I shipped a WhatsApp bot for a restaurant in Douala that takes orders and processes Orange Money payments — 24/7, real users.
+- **Fun fact**: Cameroun-born, Paris-based. I shipped a WhatsApp bot for a restaurant in Douala that takes orders and processes Orange Money payments. 24/7, real users.
 
 ---
 
@@ -37,19 +37,19 @@ Build AI that works in the real world — from production agent systems in Europ
 
 ## Projects  
 
-- **T-Twice** — Socratic AI math tutor that never gives away the answer. Won the **AI Grand Challenge 2026** (Inria / GPAI / OCDE), presented at VivaTech. Now building the mobile app (Rust + Dioxus), B2C, co-founded with Candis. [View Project](https://github.com/JoNoubs/T-twice-App)
+- **T-Twice** : Socratic AI math tutor that never gives away the answer. Won the **AI Grand Challenge 2026** (Inria / GPAI / OCDE), presented at VivaTech. Now building the mobile app (Rust + Dioxus), B2C, co-founded with Candis. [View Project](https://github.com/JoNoubs/T-twice-App)
 
-- **AI Clinic — RAG Compliance Framework for Healthcare AI** — Co-authored a compliance framework combining GDPR + EU AI Act for healthcare AI systems using RAG. Paper accepted and published at **IOCH2026**. [View Project](https://github.com/JoNoubs/AI-clinic)
+- **AI Clinic : RAG Compliance Framework for Healthcare AI** : Co-authored a compliance framework combining GDPR + EU AI Act for healthcare AI systems using RAG. Paper accepted and published at **IOCH2026**. [View Project](https://github.com/JoNoubs/AI-clinic)
 
-- **Street Chicken 237 WhatsApp Bot** — Production WhatsApp + Facebook bot for a restaurant in Douala, Cameroon. 54 menu items, Orange Money + MTN MoMo payments, running 24/7 on Railway with GPT-4.1-mini. Real users, real orders.
+- **Street Chicken 237 WhatsApp Bot** : Production WhatsApp + Facebook bot for a restaurant in Douala, Cameroon. 54 menu items, Orange Money + MTN MoMo payments, running 24/7 on Railway with GPT-4.1-mini. Real users, real orders.
 
-- **Sentiment Analysis with BERT** — Fine-tuned BERT for 3-class sentiment classification on Google Play Store reviews, containerized with Docker + Flask + Streamlit, CI/CD via GitHub Actions. [View Project](https://github.com/JoNoubs/Sentiment-Analysis-BERT)
+- **Sentiment Analysis with BERT** : Fine-tuned BERT for 3-class sentiment classification on Google Play Store reviews, containerized with Docker + Flask + Streamlit, CI/CD via GitHub Actions. [View Project](https://github.com/JoNoubs/Sentiment-Analysis-BERT)
 
-- **PCB Quality Control — YOLOv11 + SAM** — Active learning pipeline for PCB defect detection using YOLOv11 and Segment Anything Model (SAM).
+- **PCB Quality Control : YOLOv11 + SAM** : Active learning pipeline for PCB defect detection using YOLOv11 and Segment Anything Model (SAM).
 
-- **Fair ML — German Credit Dataset** — Applied 3 families of fairness constraints (Independence / Separation / Sufficiency) on a credit scoring model. Chose Separation via ExponentiatedGradient and defended it against EU AI Act Art.10(5). [View Project](https://github.com/JoNoubs/Fair_ML)
+- **Fair ML : German Credit Dataset** : Applied 3 families of fairness constraints (Independence / Separation / Sufficiency) on a credit scoring model. Chose Separation via ExponentiatedGradient and defended it against EU AI Act Art.10(5). [View Project](https://github.com/JoNoubs/Fair_ML)
 
-- **Employee Turnover Analytics** — Predictive analytics system using Random Forest + SMOTE + XGBoost to identify key factors influencing retention. [View Project](https://github.com/JoNoubs/turnover_rh_analytics)
+- **Employee Turnover Analytics** : Predictive analytics system using Random Forest + SMOTE + XGBoost to identify key factors influencing retention. [View Project](https://github.com/JoNoubs/turnover_rh_analytics)
 
 ---
 
@@ -93,7 +93,15 @@ Build AI that works in the real world — from production agent systems in Europ
 
 ## Focused Expertise
 
-I build AI that ships. My core is **Python** for agent systems and **production ML**, with a growing focus on **Rust** for high-performance AI tooling. I specialize in the full stack from model to deployment — RAG pipelines, MCP servers, EU AI Act compliance — with a particular eye for African tech contexts where mobile-first and offline-resilient design are non-negotiable.
+**Production agent systems** (Mantu, 11 brands): MCP servers, RAG pipelines, pgvector, LangGraph, observability with Langfuse, deployed on Azure.
+
+**T-Twice** (AI Grand Challenge winner): LangGraph, FastAPI, PostgreSQL, Scaleway, JWT/RBAC, React, now adding Dioxus for the mobile app.
+
+**AI Clinic** (IOCH2026 paper): RAG, BERT, GDPR + EU AI Act compliance by design, healthcare data constraints.
+
+**Fair ML**: fairness constraints (ExponentiatedGradient), bias auditing, EU AI Act Art.10(5), scikit-learn.
+
+**Street Chicken bot**: WhatsApp Business API, GPT-4.1-mini, Railway, Orange Money + MTN MoMo integration.
 
 ---
 
@@ -105,16 +113,16 @@ I build AI that ships. My core is **Python** for agent systems and **production 
 ---
 
 ## 🌍 What I'm Passionate About  
-- Building AI that actually works — in production, not just in notebooks
+- Building AI that actually works in production, not just in notebooks
 - African tech contexts: mobile-first, WhatsApp-native, MoMo payments
 - Responsible AI: EU AI Act, fairness, transparency, compliance by design
-- Teaching — making AI accessible to people who don't code
+- Teaching and making AI accessible to people who don't code
 
 ---
 
 ## Let's Connect!
 
-- [LinkedIn](https://linkedin.com/in/johanna-grace-fokui-noubi-18006022b/) — I post about RAG, agents, LLM Wikis, and things that work in production
+- [LinkedIn](https://linkedin.com/in/johanna-grace-fokui-noubi-18006022b/) - I post about RAG, agents, LLM Wikis, and things that work in production
 - **Say Hi**: Building something at the intersection of AI and African tech? I'd love to hear from you.
 
 ---
