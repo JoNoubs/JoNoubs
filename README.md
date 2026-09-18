@@ -37,9 +37,9 @@ Build AI that works in the real world, from production agent systems in Europe t
 
 ## Projects  
 
-- **T-Twice** : Socratic AI math tutor that never gives away the answer. Won the **AI Grand Challenge 2026** (Inria / GPAI / OCDE), presented at VivaTech. Now building the mobile app (Rust + Dioxus), B2C, co-founded with Candis. [View Project](https://github.com/JoNoubs/T-twice-App)
+- **T-Twice** : Socratic AI math tutor that never gives away the answer. Won the **AI Grand Challenge 2026** (Inria / GPAI / OCDE), presented at VivaTech. Now building the mobile app (Rust + Dioxus), B2C, co-founded with Candis. [Website](https://www.t-twice.fr) · [App](https://app.t-twice.fr)
 
-- **AI Clinic : RAG Compliance Framework for Healthcare AI** : Co-authored a compliance framework combining GDPR + EU AI Act for healthcare AI systems using RAG. Paper accepted and published at **IOCH2026**. [View Project](https://github.com/JoNoubs/AI-clinic)
+- **AI Clinic : RAG Compliance Framework for Healthcare AI** : Co-authored a compliance framework combining GDPR + EU AI Act for healthcare AI systems using RAG. Paper accepted and published at **IOCH2026**.
 
 - **Street Chicken 237 WhatsApp Bot** : Production WhatsApp + Facebook bot for a restaurant in Douala, Cameroon. 54 menu items, Orange Money + MTN MoMo payments, running 24/7 on Railway with GPT-4.1-mini. Real users, real orders.
 
