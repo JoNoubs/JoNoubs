@@ -1,116 +1,140 @@
-# Hi, I’m Johanna Fokui ! 👋
+# Hi, I'm Johanna Fokui ! 👋
 
-I’m a 3rd-year student in **AI & Data Science** at AIVANCITY, and I’m passionate about using data and AI to solve real problems with an ethical focus. I love diving into datasets, building smart solutions, and creating visuals that bring insights to life!
+I'm an **AI Engineer** building production agents for 11 global brands. I win challenges, publish papers, ship real things, and teach AI to people who didn't think they needed it.
 
 ## 🎯 My Goal  
-Upgrade my skills in AI and data science.
+Build AI that works in the real world — from production agent systems in Europe to mobile-first tools for African markets.
 
 ---
 
 ## A Bit About Me
-- **What I Care About**: I’m all about ethical tech—think responsible AI, data privacy, and making a positive impact through technology.
-- **What I Love Doing**: Exploring data challenges, coding AI tools, and working on projects that mix innovation with real-world applications. 
-- **Fun Fact**: I’m a curious soul who loves cultural travels and giving back through volunteering!
+- **What I'm building**: Production MCP servers, multi-agent systems, RAG pipelines, and knowledge management tools deployed at scale
+- **What I care about**: Responsible AI (EU AI Act, GDPR compliance by design), African tech context (mobile-first, MoMo payments, WhatsApp-first UX)
+- **Fun fact**: Cameroun-born, Paris-based. I shipped a WhatsApp bot for a restaurant in Douala that takes orders and processes Orange Money payments — 24/7, real users.
 
 ---
 
 ## Recent Experience
+
+**📍 Mantu | AI Engineer | Sep 2025 – Present**  
+→ Building and deploying production AI agents serving 11 global brands  
+→ Designing MCP servers, RAG pipelines, and knowledge management systems at scale  
+→ Teaching AI fundamentals at Mantu Academy to non-technical employees  
 
 **📍 BeSignal | Data Scientist | Jan – Mar 2025**  
 → Built an automated anonymization pipeline for sensitive employee alerts using BERT & GPT models  
 → Compared LLMs for sensitive data anonymization in compliance with GDPR  
 
 **📍 Métapolis & Région Île-de-France | Data Scientist | Sep – Dec 2024**  
-→ Developed a Retrieval-Augmented Generation (RAG) system to improve communication with schools  
+→ Developed a RAG system to improve communication with schools  
 → Used embedding models (text-embedding-ada-002) + web scraping to power relevant Q&A systems  
 
 **📍 Yakoota | Data Scientist | Sep – Dec 2024**  
 → Automated extraction of tables and text from insurance PDFs using YOLO (fine-tuned), Label Studio  
 → Benchmarked extraction methods for structured output  
 
-**📍 SOFOMEUTEX (Cameroon) | Assistant Accountant | Apr – Jul 2024**  
-→ Built a sales prediction model in Excel (86% accuracy) to optimize inventory  
-→ Generated monthly reports and handled container inventory verification  
-
 ---
 
 ## Projects  
-- **Sentiment Analysis with BERT**: Developed a sentiment analysis model using BERT to classify text as positive, negative, or neutral, leveraging BERT’s contextual understanding for accurate predictions. [View Project](https://github.com/JoNoubs/Sentiment-Analysis-BERT) 
-- **AI Article Detection with BERT & UMAP**: Built a system to classify articles as AI-related or not using web scraping, BERT embeddings, UMAP for visualization, and a logistic regression classifier. Added anomaly detection for robustness.  
-- **Wikipedia Topic Clustering**: Scraped Wikipedia articles on diverse topics (AI, Law, History, etc.), used TF-IDF and UMAP for dimensionality reduction, and applied k-Means clustering to visualize relationships between fields.  
-- **Image Color Palette Extraction**: Developed a tool to extract dominant colors from images using KMeans clustering with OpenCV and Matplotlib, showcasing the color palette in a visual format.
-- **Employee Turnover Analytics**  
-Developed a predictive analytics system to analyze employee turnover using machine learning models, identifying key factors influencing retention and providing actionable insights for HR. [View Project](https://github.com/JoNoubs/turnover_rh_analytics)
-- **Tic-Tac-Toe Game with AI**: Built an enhanced Python-based Tic-Tac-Toe game with Streamlit, featuring a minimax AI opponent, customizable board sizes, move history, and score tracking for wins and draws. [View Project](https://github.com/JoNoubs/tic-tac-toe-streamlit)
-- **Real-Time Object Detection with YOLOv5**: Implemented a real-time object detection system using YOLOv5 and OpenCV, displaying detected objects with bounding boxes and confidence scores via webcam feed.
-  
+
+- **T-Twice** — Socratic AI math tutor that never gives away the answer. Won the **AI Grand Challenge 2026** (Inria / GPAI / OCDE), presented at VivaTech. Now building the mobile app (Rust + Dioxus), B2C, co-founded with Candis. [View Project](https://github.com/JoNoubs/T-twice-App)
+
+- **AI Clinic — RAG Compliance Framework for Healthcare AI** — Co-authored a compliance framework combining GDPR + EU AI Act for healthcare AI systems using RAG. Paper accepted and published at **IOCH2026**. [View Project](https://github.com/JoNoubs/AI-clinic)
+
+- **Street Chicken 237 WhatsApp Bot** — Production WhatsApp + Facebook bot for a restaurant in Douala, Cameroon. 54 menu items, Orange Money + MTN MoMo payments, running 24/7 on Railway with GPT-4.1-mini. Real users, real orders.
+
+- **Sentiment Analysis with BERT** — Fine-tuned BERT for 3-class sentiment classification on Google Play Store reviews, containerized with Docker + Flask + Streamlit, CI/CD via GitHub Actions. [View Project](https://github.com/JoNoubs/Sentiment-Analysis-BERT)
+
+- **PCB Quality Control — YOLOv11 + SAM** — Active learning pipeline for PCB defect detection using YOLOv11 and Segment Anything Model (SAM).
+
+- **Fair ML — German Credit Dataset** — Applied 3 families of fairness constraints (Independence / Separation / Sufficiency) on a credit scoring model. Chose Separation via ExponentiatedGradient and defended it against EU AI Act Art.10(5). [View Project](https://github.com/JoNoubs/Fair_ML)
+
+- **Employee Turnover Analytics** — Predictive analytics system using Random Forest + SMOTE + XGBoost to identify key factors influencing retention. [View Project](https://github.com/JoNoubs/turnover_rh_analytics)
+
 ---
 
 ## What I Can Do
 
-**Languages & Tools**:  
-Python, R, SQL, Excel, Tableau, Power BI, FastAPI, Docker, Git/GitHub, Trello
+**Languages & tools**:  
+Python (pandas, numpy, scikit-learn, matplotlib, seaborn, RegEx), R, SQL, JavaScript, React, Jupyter, VS Code
 
-**Data Science & ML**:  
-scikit-learn, TensorFlow, PyTorch, Keras, Feature Engineering, Clustering, Normalization, Regression, Classification
+**Agent & AI Stack**:  
+MCP servers, LangGraph, ReAct agents, RAG, pgvector, multi-agent orchestration, Claude, GPT-4, Mistral, Qwen, prompt engineering, fine-tuning
 
-**NLP**:  
-BERT, Hugging Face, LangChain, RAG, GPT, NER, Tokenization, Text Embedding (ADA)
+**NLP & Generative AI**:  
+BERT, CamemBERT, Hugging Face, LangChain, spaCy, LLMs, text-embedding-ada-002
 
-**Web & Docs**:  
-BeautifulSoup, Selenium, PDF parsing, OpenCV, YOLOv5, Label Studio
+**ML / Deep Learning**:  
+scikit-learn, PyTorch, TensorFlow, YOLOv5, supervised & unsupervised models
+
+**Data**:  
+Feature engineering, feature selection, cleaning, normalisation, structuring
+
+**Infra & DevOps**:  
+FastAPI, Docker, Azure, Scaleway, Nebius, PostgreSQL, pgvector, MySQL, GitHub Actions, Langfuse, Railway, Caddy, API integration
+
+**Visualisation & Reporting**:  
+Power BI, Tableau, Streamlit, Plotly, matplotlib, seaborn, Excel, Canva
+
+**Ethics & Compliance**:  
+GDPR, EU AI Act, bias management, AI ethics
 
 ---
 
-## Tech Stack /  Skills & Tools
+## Tech Stack / Skills & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
+![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=for-the-badge&logo=scaleway&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Dioxus](https://img.shields.io/badge/Dioxus-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
+
 ## Focused Expertise
 
-I specialize in **Python** and **R** because they are the most powerful tools for machine learning, data analysis, NLP, and rapid prototyping in AI.  
-It's not about knowing every language, it's about mastering the right ones to solve real problems.
+I build AI that ships. My core is **Python** for agent systems and **production ML**, with a growing focus on **Rust** for high-performance AI tooling. I specialize in the full stack from model to deployment — RAG pipelines, MCP servers, EU AI Act compliance — with a particular eye for African tech contexts where mobile-first and offline-resilient design are non-negotiable.
 
 ---
+
 ## GitHub Stats
 
 ![Johanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoNoubs&theme=radical&show_icons=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoNoubs&theme=radical)
 
+---
+
+## 🌍 What I'm Passionate About  
+- Building AI that actually works — in production, not just in notebooks
+- African tech contexts: mobile-first, WhatsApp-native, MoMo payments
+- Responsible AI: EU AI Act, fairness, transparency, compliance by design
+- Teaching — making AI accessible to people who don't code
 
 ---
 
-## 🌍 What I’m Passionate About  
-- Turning data into solutions that help people and drive impact.  
-- Working on projects that blend innovation, ethics, and collaboration.  
-- Growing my skills in AI, data science, and computer vision while learning from the community.
+## Let's Connect!
 
----
-## Let’s Connect!
+- [LinkedIn](https://linkedin.com/in/johanna-grace-fokui-noubi-18006022b/) — I post about RAG, agents, LLM Wikis, and things that work in production
+- **Say Hi**: Building something at the intersection of AI and African tech? I'd love to hear from you.
 
-- [LinkedIn](https://linkedin.com/in/johanna-grace-fokui-noubi-18006022b/)  
-- **Say Hi**: If you’re into ethical tech, data projects, or just want to chat, I’d love to hear from you!
 ---
 
 ## ✍️ Random Dev Quote  
