@@ -47,7 +47,7 @@ Build AI that works in the real world, from production agent systems in Europe t
 
 - **PCB Quality Control : YOLOv11 + SAM** : Active learning pipeline for PCB defect detection using YOLOv11 and Segment Anything Model (SAM).
 
-- **Fair ML : German Credit Dataset** : Applied 3 families of fairness constraints (Independence / Separation / Sufficiency) on a credit scoring model. Chose Separation via ExponentiatedGradient and defended it against EU AI Act Art.10(5). [View Project](https://github.com/JoNoubs/Fair_ML)
+- **Fair ML : German Credit Dataset** : Applied 3 families of fairness constraints (Independence / Separation / Sufficiency) on a credit scoring model. Chose Separation via ExponentiatedGradient and defended it against EU AI Act Art.10(5).
 
 - **Employee Turnover Analytics** : Predictive analytics system using Random Forest + SMOTE + XGBoost to identify key factors influencing retention. [View Project](https://github.com/JoNoubs/turnover_rh_analytics)
 
