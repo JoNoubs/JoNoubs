@@ -53,35 +53,7 @@ Build AI that works in the real world — from production agent systems in Europ
 
 ---
 
-## What I Can Do
-
-**Languages & tools**:  
-Python (pandas, numpy, scikit-learn, matplotlib, seaborn, RegEx), R, SQL, JavaScript, React, Jupyter, VS Code
-
-**Agent & AI Stack**:  
-MCP servers, LangGraph, ReAct agents, RAG, pgvector, multi-agent orchestration, Claude, GPT-4, Mistral, Qwen, prompt engineering, fine-tuning
-
-**NLP & Generative AI**:  
-BERT, CamemBERT, Hugging Face, LangChain, spaCy, LLMs, text-embedding-ada-002
-
-**ML / Deep Learning**:  
-scikit-learn, PyTorch, TensorFlow, YOLOv5, supervised & unsupervised models
-
-**Data**:  
-Feature engineering, feature selection, cleaning, normalisation, structuring
-
-**Infra & DevOps**:  
-FastAPI, Docker, Azure, Scaleway, Nebius, PostgreSQL, pgvector, MySQL, GitHub Actions, Langfuse, Railway, Caddy, API integration
-
-**Visualisation & Reporting**:  
-Power BI, Tableau, Streamlit, Plotly, matplotlib, seaborn, Excel, Canva
-
-**Ethics & Compliance**:  
-GDPR, EU AI Act, bias management, AI ethics
-
----
-
-## Tech Stack / Skills & Tools
+## Tech Stack & Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -106,6 +78,16 @@ GDPR, EU AI Act, bias management, AI ethics
 ![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=for-the-badge&logo=scaleway&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 ![Dioxus](https://img.shields.io/badge/Dioxus-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+**Agents & AI**: MCP servers, LangGraph, ReAct agents, RAG, pgvector, multi-agent orchestration, prompt engineering, fine-tuning, Claude, GPT-4, Mistral, Qwen
+
+**NLP**: BERT, CamemBERT, spaCy, LangChain, text-embedding-ada-002, NER, tokenization
+
+**ML / Data**: XGBoost, YOLOv5/v11, SAM, feature engineering, supervised & unsupervised models
+
+**Viz**: Plotly, matplotlib, seaborn, Canva, Excel
+
+**Ethics & Compliance**: GDPR, EU AI Act, bias management, data anonymization (k-anonymity, sdcMicro)
 
 ---
 
