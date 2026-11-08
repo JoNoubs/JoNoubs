@@ -19,19 +19,25 @@ Build AI that works in the real world, from production agent systems in Europe t
 ## Recent Experience
 
 **📍 Mantu | AI Engineer (Apprentice) | Jul 2025 – Present**  
-→ Took the internal AI assistant from requirements to production with the business teams: 3,700+ intranet pages, 1,000+ users  
-→ Built an evaluation benchmark of real user questions (98% correct), guardrails, and incremental indexing  
-→ Build and run LLM wikis and MCP servers that AI agents use, for several teams  
-→ Built an interactive org chart app for 7,000+ employees, with an MCP server so AI agents can use it  
-→ Teaching AI fundamentals at Mantu Academy to non-technical employees  
+→ Took the company's internal AI assistant from requirements to production with the business teams: it answers employee questions from 3,700+ SharePoint pages (RAG, hybrid retrieval, FastAPI, pgvector), for 1,000+ users and AI agents (MCP)  
+→ Built an LLM evaluation benchmark of real user questions to catch regressions (98% correct), plus guardrails: Langfuse tracing, access rights, fallback answers  
+→ Made indexing efficient with a daily incremental pipeline that re-processes only the pages that changed  
+→ Build LLM wikis that AI agents read and update, for several teams  
+→ Built an org chart app for the company's employees and its MCP server (React, Azure AD)  
+→ Teach AI Fundamentals at the Mantu Academy to employees who do not code  
 
-**📍 BeSignal | Data Scientist | Jan – Mar 2025**  
-→ Built an automated anonymization pipeline for sensitive employee alerts using BERT & GPT models  
-→ Compared LLMs for sensitive data anonymization in compliance with GDPR  
+**📍 T-Twice | Co-founder & CTO | Mar 2026 – Present**  
+→ As lead developer, built an AI math tutor that guides students without giving the answer: diagnosis, search and Socratic agents  
+→ Run the tech: FastAPI, React, open models (Mistral, Qwen) on Scaleway, cost tracking, an exam mode protected from prompt injection  
+→ AI Grand Challenge 2026 student vote (Inria, GPAI, OECD); laureate at VivaTech 2026  
 
-**📍 Métapolis & Région Île-de-France | Data Scientist | Sep – Dec 2024**  
-→ Developed a RAG system to improve communication with schools  
-→ Used embedding models (text-embedding-ada-002) + web scraping to power relevant Q&A systems  
+**📍 Mnésie | Founder & Developer (side project) | Oct 2026 – Present**  
+→ Built, with AI coding agents (Claude Code, Codex), a study app for medical students: it transcribes lectures, links them to the slides and makes revision cards  
+→ Shipped 50 versions in less than a month with a real user, backed by 350+ UI tests (XCUITest)  
+
+**📍 AI Clinic (aivancity) | Data Scientist | Sep 2024 – Mar 2025**  
+→ BeSignal: built a GDPR tool that hides personal data in reports, after comparing NLP models (spaCy, CamemBERT, LLaMA)  
+→ Métapolis & Région Île-de-France: adapted a RAG assistant to answer high schools' questions from public documents  
 
 ---
 
