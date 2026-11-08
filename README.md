@@ -12,7 +12,7 @@ Build AI that works in the real world, from production agent systems in Europe t
 ## A Bit About Me
 - **What I am building**: Production MCP servers, multi-agent systems, RAG pipelines, and knowledge management tools deployed at scale
 - **What I care about**: Responsible AI (EU AI Act, GDPR compliance by design), African tech context (mobile-first, MoMo payments, WhatsApp-first UX)
-- **Fun fact**: Cameroun-born, Paris-based. I shipped a WhatsApp bot for a restaurant in Douala that takes orders and processes Orange Money payments. 24/7, real users.
+- **Fun fact**: I built the WhatsApp bot and the operations app that run a restaurant in Cameroon: orders 24/7, Orange Money payments, real users.
 
 ---
 
@@ -22,6 +22,7 @@ Build AI that works in the real world, from production agent systems in Europe t
 → Took the internal AI assistant from requirements to production with the business teams: 3,700+ intranet pages, 1,000+ users  
 → Built an evaluation benchmark of real user questions (98% correct), guardrails, and incremental indexing  
 → Build and run LLM wikis and MCP servers that AI agents use, for several teams  
+→ Built an interactive org chart app for 7,000+ employees, with an MCP server so AI agents can use it  
 → Teaching AI fundamentals at Mantu Academy to non-technical employees  
 
 **📍 BeSignal | Data Scientist | Jan – Mar 2025**  
@@ -32,21 +33,31 @@ Build AI that works in the real world, from production agent systems in Europe t
 → Developed a RAG system to improve communication with schools  
 → Used embedding models (text-embedding-ada-002) + web scraping to power relevant Q&A systems  
 
-**📍 Yakoota | Data Scientist | Sep – Dec 2024**  
-→ Automated extraction of tables and text from insurance PDFs using YOLO (fine-tuned), Label Studio  
-→ Benchmarked extraction methods for structured output  
+---
+
+## Education
+
+**📍 aivancity School for Technology, Business & Society | Master's in AI & Data Science (Programme Grande École) | 2022 – 2027**  
+→ GPA 14.31/20 · Projects for companies through the AI Clinic · Thesis: LLM wikis vs RAG  
+
+**📍 UC Berkeley | AI Product Engineering certificate | June 2026**  
+→ Designing and shipping AI products · [Verify credential](https://berkeley.badges.parchment.com/public/credentials/J_KoKyMPTpqCJDCqP-hMDg)
 
 ---
 
 ## Projects  
 
-- **Mnésie** : iPad study app for medical students. It transcribes lectures with the course vocabulary, links them to the slides and makes revision cards; every AI answer cites its source in the course or is not shown. 50 versions in less than a month with a real user, 350+ UI tests, built with AI coding agents (Claude Code, Codex). Swift, Supabase, Speechmatics, Claude, Mistral. [Website](https://mnesie.app)
+- **Mnésie** : Study app for medical students, on iPad and on the web. It transcribes lectures with the course vocabulary, links them to the slides and makes revision cards; every AI answer cites its source in the course or is not shown. 50 versions in less than a month with a real user, 350+ UI tests, built with AI coding agents (Claude Code, Codex). Swift, Supabase, Speechmatics, Claude, Mistral. [Website](https://mnesie.app)
 
-- **T-Twice** : Socratic AI math tutor that never gives away the answer. Won the **AI Grand Challenge 2026 student vote** (Inria / GPAI / OCDE), presented at VivaTech. Now building the mobile app (Rust + Dioxus), B2C, co-founded with Candis. [Website](https://www.t-twice.fr) · [App](https://app.t-twice.fr)
+- **T-Twice** : Socratic AI math tutor that never gives away the answer. Won the **AI Grand Challenge 2026 student vote** (Inria / GPAI / OCDE), presented at VivaTech. Co-founded with Candis; I am CTO and lead developer. Current priority: the web app. Pilot with future math teachers at the INSPÉ of Reims. [Website](https://www.t-twice.fr) · [App](https://app.t-twice.fr)
 
 - **AI Clinic : RAG Compliance Framework for Healthcare AI** : Co-authored a compliance framework combining GDPR + EU AI Act for healthcare AI systems using RAG. Paper presented at **IOCH2026**. [Read it](https://sciforum.net/paper/29862)
 
-- **Street Chicken 237 WhatsApp Bot** : Production WhatsApp + Facebook bot for a restaurant in Douala, Cameroon. 54 menu items, Orange Money + MTN MoMo payments, running 24/7 on Railway with GPT-4.1-mini. Real users, real orders.
+- **Street Chicken 237** : WhatsApp + Messenger ordering bot and an operations app for a restaurant in Cameroon. Orders 24/7, Orange Money + MTN MoMo, recipes, food cost from real purchase prices, stock, cash register, hygiene checks and an AI assistant for the team. Prices are computed by code, never by AI. TypeScript, Next.js, Supabase, WhatsApp Business API. [Website](https://www.streetchicken237.com/home)
+
+- **Morning market brief agent** : Built in one day for an investment professional. Every weekday morning, an agent reads the market news, ranks what matters for her portfolio and sends two briefs (Europe and US), with alerts during the day. Python, RSS, Claude, SQLite, email.
+
+- **Master's thesis: Compile or Retrieve?** : Do LLM-compiled wikis answer better than RAG with the same model? A controlled comparison of quality and cost.
 
 - **Sentiment Analysis with BERT** : Fine-tuned BERT for 3-class sentiment classification on Google Play Store reviews, containerized with Docker + Flask + Streamlit, CI/CD via GitHub Actions. [View Project](https://github.com/JoNoubs/Sentiment-Analysis-BERT)
 
@@ -82,7 +93,6 @@ Build AI that works in the real world, from production agent systems in Europe t
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
 ![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=for-the-badge&logo=scaleway&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![Dioxus](https://img.shields.io/badge/Dioxus-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Agents & AI**: MCP servers, LangGraph, ReAct agents, RAG, pgvector, multi-agent orchestration, prompt engineering, fine-tuning, Claude, GPT-4, Mistral, Qwen
 
@@ -100,20 +110,13 @@ Build AI that works in the real world, from production agent systems in Europe t
 
 **Production agent systems** (Mantu, 11 brands): MCP servers, RAG pipelines, pgvector, LangGraph, observability with Langfuse, deployed on Azure.
 
-**T-Twice** (AI Grand Challenge 2026, student vote): LangGraph, FastAPI, PostgreSQL, Scaleway, React, now adding Dioxus for the mobile app.
+**T-Twice** (AI Grand Challenge 2026, student vote): LangGraph, FastAPI, PostgreSQL, React, Mistral & Qwen on Scaleway.
 
 **AI Clinic** (IOCH2026 paper): RAG, BERT, GDPR + EU AI Act compliance by design, healthcare data constraints.
 
 **Fair ML**: fairness constraints (ExponentiatedGradient), bias auditing, EU AI Act Art.10(5), scikit-learn.
 
-**Street Chicken bot**: WhatsApp Business API, GPT-4.1-mini, Railway, Orange Money + MTN MoMo integration.
-
----
-
-## GitHub Stats
-
-![Johanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoNoubs&theme=radical&show_icons=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoNoubs&theme=radical)
+**Street Chicken**: WhatsApp Business API, TypeScript, Next.js, Supabase, Orange Money + MTN MoMo integration.
 
 ---
 
