@@ -5,7 +5,7 @@ I am an **AI Engineer** building production agents for 11 global brands. I win c
 **🌐 Portfolio: [jonoubs.github.io](https://jonoubs.github.io)** (try my projects live)
 
 ## 🎯 My Goal  
-Build AI that works in the real world, from production agent systems in Europe to mobile-first tools for African markets.
+Build AI products that real people use every day, and can trust.
 
 ---
 
