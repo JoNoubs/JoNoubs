@@ -1,6 +1,6 @@
-# Hi, I'm Johanna Fokui ! 👋
+# Hi, I am Johanna Fokui ! 👋
 
-I'm an **AI Engineer** building production agents for 11 global brands. I win challenges, publish papers, ship real things, and teach AI to people who didn't think they needed it.
+I am an **AI Engineer** building production agents for 11 global brands. I win challenges, publish papers, ship real things, and teach AI to people who did not think they needed it.
 
 ## 🎯 My Goal  
 Build AI that works in the real world, from production agent systems in Europe to mobile-first tools for African markets.
@@ -8,7 +8,7 @@ Build AI that works in the real world, from production agent systems in Europe t
 ---
 
 ## A Bit About Me
-- **What I'm building**: Production MCP servers, multi-agent systems, RAG pipelines, and knowledge management tools deployed at scale
+- **What I am building**: Production MCP servers, multi-agent systems, RAG pipelines, and knowledge management tools deployed at scale
 - **What I care about**: Responsible AI (EU AI Act, GDPR compliance by design), African tech context (mobile-first, MoMo payments, WhatsApp-first UX)
 - **Fun fact**: Cameroun-born, Paris-based. I shipped a WhatsApp bot for a restaurant in Douala that takes orders and processes Orange Money payments. 24/7, real users.
 
@@ -16,9 +16,10 @@ Build AI that works in the real world, from production agent systems in Europe t
 
 ## Recent Experience
 
-**📍 Mantu | AI Engineer | Sep 2025 – Present**  
-→ Building and deploying production AI agents serving 11 global brands  
-→ Designing MCP servers, RAG pipelines, and knowledge management systems at scale  
+**📍 Mantu | AI Engineer (Apprentice) | Jul 2025 – Present**  
+→ Took the internal AI assistant from requirements to production with the business teams: 3,700+ intranet pages, 1,000+ users  
+→ Built an evaluation benchmark of real user questions (98% correct), guardrails, and incremental indexing  
+→ Build and run LLM wikis and MCP servers that AI agents use, for several teams  
 → Teaching AI fundamentals at Mantu Academy to non-technical employees  
 
 **📍 BeSignal | Data Scientist | Jan – Mar 2025**  
@@ -37,9 +38,11 @@ Build AI that works in the real world, from production agent systems in Europe t
 
 ## Projects  
 
-- **T-Twice** : Socratic AI math tutor that never gives away the answer. Won the **AI Grand Challenge 2026** (Inria / GPAI / OCDE), presented at VivaTech. Now building the mobile app (Rust + Dioxus), B2C, co-founded with Candis. [Website](https://www.t-twice.fr) · [App](https://app.t-twice.fr)
+- **Mnésie** : iPad study app for medical students. It transcribes lectures with the course vocabulary, links them to the slides and makes revision cards; every AI answer cites its source in the course or is not shown. 50 versions in less than a month with a real user, 350+ UI tests, built with AI coding agents (Claude Code, Codex). Swift, Supabase, Speechmatics, Claude, Mistral. [Website](https://mnesie.app)
 
-- **AI Clinic : RAG Compliance Framework for Healthcare AI** : Co-authored a compliance framework combining GDPR + EU AI Act for healthcare AI systems using RAG. Paper accepted and published at **IOCH2026**.
+- **T-Twice** : Socratic AI math tutor that never gives away the answer. Won the **AI Grand Challenge 2026 student vote** (Inria / GPAI / OCDE), presented at VivaTech. Now building the mobile app (Rust + Dioxus), B2C, co-founded with Candis. [Website](https://www.t-twice.fr) · [App](https://app.t-twice.fr)
+
+- **AI Clinic : RAG Compliance Framework for Healthcare AI** : Co-authored a compliance framework combining GDPR + EU AI Act for healthcare AI systems using RAG. Paper presented at **IOCH2026**. [Read it](https://sciforum.net/paper/29862)
 
 - **Street Chicken 237 WhatsApp Bot** : Production WhatsApp + Facebook bot for a restaurant in Douala, Cameroon. 54 menu items, Orange Money + MTN MoMo payments, running 24/7 on Railway with GPT-4.1-mini. Real users, real orders.
 
@@ -95,7 +98,7 @@ Build AI that works in the real world, from production agent systems in Europe t
 
 **Production agent systems** (Mantu, 11 brands): MCP servers, RAG pipelines, pgvector, LangGraph, observability with Langfuse, deployed on Azure.
 
-**T-Twice** (AI Grand Challenge winner): LangGraph, FastAPI, PostgreSQL, Scaleway, JWT/RBAC, React, now adding Dioxus for the mobile app.
+**T-Twice** (AI Grand Challenge 2026, student vote): LangGraph, FastAPI, PostgreSQL, Scaleway, React, now adding Dioxus for the mobile app.
 
 **AI Clinic** (IOCH2026 paper): RAG, BERT, GDPR + EU AI Act compliance by design, healthcare data constraints.
 
@@ -112,11 +115,11 @@ Build AI that works in the real world, from production agent systems in Europe t
 
 ---
 
-## 🌍 What I'm Passionate About  
+## 🌍 What I am Passionate About  
 - Building AI that actually works in production, not just in notebooks
 - African tech contexts: mobile-first, WhatsApp-native, MoMo payments
 - Responsible AI: EU AI Act, fairness, transparency, compliance by design
-- Teaching and making AI accessible to people who don't code
+- Teaching and making AI accessible to people who do not code
 
 ---
 
