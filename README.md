@@ -2,6 +2,8 @@
 
 I am an **AI Engineer** building production agents for 11 global brands. I win challenges, publish papers, ship real things, and teach AI to people who did not think they needed it.
 
+**🌐 Portfolio: [jonoubs.github.io](https://jonoubs.github.io)** (try my projects live)
+
 ## 🎯 My Goal  
 Build AI that works in the real world, from production agent systems in Europe to mobile-first tools for African markets.
 
@@ -123,10 +125,11 @@ Build AI that works in the real world, from production agent systems in Europe t
 
 ---
 
-## Let's Connect!
+## Let Us Connect!
 
+- [Portfolio](https://jonoubs.github.io) - my projects, playable
 - [LinkedIn](https://linkedin.com/in/johanna-grace-fokui-noubi-18006022b/) - I post about RAG, agents, LLM Wikis, and things that work in production
-- **Say Hi**: Building something at the intersection of AI and African tech? I'd love to hear from you.
+- **Say Hi**: Building something at the intersection of AI and African tech? I would love to hear from you.
 
 ---
 
