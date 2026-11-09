@@ -46,7 +46,7 @@ Build AI products that real people use every day, and can trust.
 **📍 aivancity School for Technology, Business & Society | Master's in AI & Data Science (Programme Grande École) | 2022 – 2027**  
 → GPA 14.31/20 · Projects for companies through the AI Clinic · Thesis: LLM wikis vs RAG  
 
-**📍 UC Berkeley | AI Product Engineering certificate | June 2026**  
+**📍 UC Berkeley | AI Product Engineering certificate | May 2026**  
 → Designing and shipping AI products · [Verify credential](https://berkeley.badges.parchment.com/public/credentials/J_KoKyMPTpqCJDCqP-hMDg)
 
 ---
